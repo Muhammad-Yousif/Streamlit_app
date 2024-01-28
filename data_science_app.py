@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 import pandas as pd
 import numpy as np 
-import plotly.express as px 
+import plotly as px 
 
 # title
 st.title(":green[Rainfall In Pakistan Since 1901-2016]")
